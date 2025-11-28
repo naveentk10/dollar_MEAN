@@ -27,8 +27,11 @@ Navigate to `http://localhost:8081/`
 
 
 
-App launch  (screenshots/1.png)
+### App launch
+![App launch](screenshots/1.png)
 
-CICD - github action  (screenshots/2.png)
+### CI/CD - GitHub Action
+![CICD - github action](screenshots/2.png)
 
-Docker running status(screensshots/3.png)
+### Docker running status
+![Docker running status](screenshots/3.png)
